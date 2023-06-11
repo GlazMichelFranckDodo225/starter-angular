@@ -1,6 +1,7 @@
 /* To learn more about this file see: https://angular.io/config/tsconfig. */
+/* CONFIG DU COMPILATEUR TYPESCRIPT DU PROJET  */
 {
-  "extends": "./tsconfig.json",
+  "extends": "./tsconfig.json", // Indique le fichier de configs principal
   "compilerOptions": {
     "outDir": "./out-tsc/app",
     "types": []
